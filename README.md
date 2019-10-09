@@ -13,3 +13,11 @@ To install AnnouncementLink run
 <br>
 To use AnnouncementLink you need to have pygame installed if you do not run
 <code>pip install pygame</code>
+
+# Using AnnouncementLink
+
+| Functions  | Use | Arguments |
+| ------------- | ------------- | ------------- |
+| init  | Used to initialize AnnouncementLink and modules that are required to run AnnouncementLink  | Directory of sound files, File extension .wav or .ogg   |
+| announce  | announces text  | Sound played before speech, text to speak sound files separated by #  |
+
