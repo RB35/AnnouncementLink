@@ -13,6 +13,8 @@ To install AnnouncementLink run
 <br>
 To use AnnouncementLink you need to have pygame installed if you do not run
 <code>pip install pygame</code>
+Also if you want to get better results you 
+<code>pip install pygame</code>
 
 # Using AnnouncementLink
 
