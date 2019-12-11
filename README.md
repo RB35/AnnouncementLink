@@ -13,8 +13,9 @@ To install AnnouncementLink run
 <br>
 To use AnnouncementLink you need to have pygame installed if you do not run
 <code>pip install pygame</code>
-Also if you want to get better results you 
-<code>pip install pygame</code>
+
+Also if you want to normalize you audio to get better results install 
+<code>pip install pydub</code>
 
 # Using AnnouncementLink
 
@@ -23,3 +24,6 @@ Also if you want to get better results you
 | init  | Used to initialize AnnouncementLink and modules that are required to run AnnouncementLink  | Directory of sound files, File extension .wav or .ogg   |
 | announce  | announces text  | Sound played before speech, text to speak sound files separated by #  |
 
+# Examples
+
+<code>Coming Soon</code>
