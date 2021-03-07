@@ -1,5 +1,6 @@
 ```diff
-- !!NOTE!! This a old repo that was private and never finished! I have made it public as I intend to completly rewrite this with the same starting Idea!!
+- !!NOTE!! This a old repo that was private and never finished!
+- I have made it public as I intend to completly rewrite this with the same starting Idea!!
 ```
 # AnnouncementLink
 A speech system for places like train stations. 
