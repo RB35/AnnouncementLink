@@ -1,5 +1,5 @@
 ```diff
-- !!NOTE!! This a old repo that was private and never finished!
+- !!NOTE!! This a old repo that was privated and never finished!
 - I have made it public as I intend to completly rewrite this with the same starting Idea!!
 ```
 # AnnouncementLink
